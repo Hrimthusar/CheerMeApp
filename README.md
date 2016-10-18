@@ -33,7 +33,7 @@ test acc: zeka : 12345
 ![alt tag](https://github.com/fr1sk/CheerMeApp/blob/master/screenshoots/2016-10-18_1366x768f.png)
 *profile screen, with precentage of helpness*
 
-![alt tag](https://github.com/fr1sk/CheerMeApp/blob/master/screenshoots/2016-10-18_1366x768g.png)
+![alt tag](https://github.com/fr1sk/CheerMeApp/blob/master/screenshoots/2016-10-18_1365x767g.png)
 *new topic screen, for user that have problem with something*
 
 to run app start apache2 server, setup phpmyandmin with our database (location: DB/db.sql), login with test acc and enjoy :D
